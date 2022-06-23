@@ -36,7 +36,7 @@ print(f"{x1} ** {x2} = {x1**x2}")
 print(f"{x2} ** {x1} = {x2**x1}")
 num = x1
 num **= x1
-print("result of",x1,"** is",num)
+print("result of",x1,"**",x1,"is",num)
 
 
 
